@@ -406,6 +406,15 @@ h2 {
 .team-container {
   text-align: center;
 }
+
+.register-section {
+  margin-left: 11%;
+  font-size: .90rem;
+}
+
+.team-section{
+  font-size: .90rem;
+}
 /* Footer Section */
 
 #footer-main {
