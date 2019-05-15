@@ -424,6 +424,10 @@ h2 {
 
 /* 2017 Game */
 
+.info-description {
+  font-family: Montserrat;
+}
+
 /* Jumbotron Section */
 
 .jumbotron-heading {
@@ -433,7 +437,7 @@ h2 {
 }
 
 .recap-info {
-  font-family: Playfair-display;
+  font-family: Montserrat;
 }
 
 
