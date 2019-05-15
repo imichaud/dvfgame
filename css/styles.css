@@ -221,8 +221,8 @@ section .section-title {
   font-family: Oswald;
   /* text-transform: uppercase; */
   text-align: center;
-  padding-left: 200px;
-  padding-right: 200px;
+  padding-left: 15%;
+  padding-right: 15%;
 }
 
 .description-info {
@@ -237,8 +237,8 @@ section .section-title {
 
 .description-scholarship {
   text-align: center;
-  padding-left: 10%;
-  padding-right: 10%;
+  padding-left: 15%;
+  padding-right: 15%;
   font-size: 1.15rem;
 }
 
@@ -501,6 +501,8 @@ h2 {
 #lonzo {
   width: 100%;
 }
+
+
 
 
 /* 2019 Page */
